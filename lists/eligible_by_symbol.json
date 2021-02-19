@@ -145,7 +145,7 @@
         "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": [
             "AAVE",
             "Aave Token",
-            "cap3"
+            "cap4"
         ],
         "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51": [
             "sUSD",
@@ -465,11 +465,6 @@
         "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d": [
             "CEL",
             "Celsius",
-            "cap3"
-        ],
-        "0x0Ba45A8b5d5575935B8158a88C631E9F9C95a2e5": [
-            "TRB",
-            "Tellor Tributes",
             "cap3"
         ],
         "0x4a220E6096B25EADb88358cb44068A3248254675": [
@@ -1540,7 +1535,7 @@
         "0x467Bccd9d29f223BcE8043b84E8C8B282827790F": [
             "TEL",
             "Telcoin",
-            "cap1"
+            "cap2"
         ],
         "0xF06DdacF71e2992E2122A1a0168C6967aFdf63ce": [
             "uUSDrBTC-DEC",
@@ -2085,6 +2080,21 @@
         "0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd": [
             "RAZOR",
             "RAZOR",
+            "cap1"
+        ],
+        "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad": [
+            "DAO",
+            "DAO Maker",
+            "cap1"
+        ],
+        "0xac3211a5025414Af2866FF09c23FC18bc97e79b1": [
+            "DOV",
+            "DOVU",
+            "cap1"
+        ],
+        "0xEfc1C73A3D8728Dc4Cf2A18ac5705FE93E5914AC": [
+            "METRIC",
+            "Metric.exchange",
             "cap1"
         ]
     }
