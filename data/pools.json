@@ -217,5 +217,59 @@
     "logo": true,
     "is_visible": true,
     "is_compatible": true
+  },
+  "0x58ad69d1306a2410622d0e3f707c8f1dd0185c49": {
+    "chainId": 1,
+    "name": "Kylin Network LBP",
+    "about": "13M KYL tokens from the Public Sale will be distributed (unpaused) to Balancer’s Liquidity Bootstrapping Pool (LBP) on March 3rd at around 10:00 am UTC. The LBP will run for 48 hours, starting from 10:00 am UTC March 3rd, and ending at 10:00 am UTC March 5th. The weight of Balancer Pool will be adjusted according to the market buying power. This is dynamic!",
+    "learn_more": "https://kylinnetwork.medium.com/kylin-token-launch-phase-2-liquidity-bootstrapping-pool-lbp-on-balancer-725fe67f73a8",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x3c035c3f8e271e12df1bed648024e60249f507c3": {
+    "chainId": 1,
+    "name": "MetaFactory Pool",
+    "about": "$ROBOT is the MetaFactory Governance Token by which community members decide on token mechanics, reward schedules, partnerships, platform features, treasury use and more. It is also the vehicle by which value is captured, distributed, earned and shared. Creators receive $ROBOT based on the success of their product(s), buyers are rewarded with $ROBOT for their patronage, and the community earns $ROBOT by helping to curate the marketplace.  Revenue from product sales are used to buy back and provide liquidity for $ROBOT, which support ongoing community rewards. Fund management is entirely under the control of the community members via the MetaFactory DAO.",
+    "learn_more": "https://forefront.news/creators/robot",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x963b3d2137fd7ef23273918cb07462c64337c819": {
+    "chainId": 1,
+    "name": "Siren LBP",
+    "about": "5MM SI Tokens will be distributed through a Balancer Liquidity Bootstrapping Pool (LBP). The Balancer LBP will be live for 3 days only and is designed to prevent front-running and speculation. It will start at a high price then go down quickly as the weights of the pool change. This mechanism prevents people from front-running other participants and speculating on SI tokens rather than using them for governance.",
+    "learn_more": "https://app.sirenmarkets.com/lbp",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0xebdb2d0f89b0148a6b1b0520388f3ad7daff8acc": {
+    "chainId": 1,
+    "name": "ETHALend LBP",
+    "about": "After being oversubscribed by more than 25x on Dodo, we are extremely pleased to continue our IDO on Balancer via the Liquidity Bootstrapping Pool. From 13:00 CET on March 6 to 13:00 CET on March 7, the pool's weights will adjust from 90/10 ETHA/USDC to 10/90 ETHA/USDC, generating downward pressure on the price of ETHA similar to a Dutch auction.",
+    "learn_more": "https://medium.com/etha/etha-lend-5th-8th-march-double-ido-triple-ieo-sale-details-c3481cece8ff",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0x21c4509100443f756b6fff33382bc5e42849d49b": {
+    "chainId": 1,
+    "name": "Kine Protocol LBP",
+    "about": "Kine Protocol will be distributing 5,000,000 (5 million) KINE via a Balancer Liquidity Bootstrapping Pool at about 2021–03–11 14:00 UTC and ending at about 2021–03–13 02:00 UTC. The LBP will last approximately 36 hours.",
+    "learn_more": "https://medium.com/@KineProtocol/guide-to-kines-first-token-offering-219a102d72b6",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
+  },
+  "0xb969f8ae6908e5534bb54c8309c4503e94629909": {
+    "chainId": 1,
+    "name": "Visor Finance LBP",
+    "about": "30% of the total supply of VISR tokens will become available through the Liquidity Bootstrapping Event. The price weights start at 96:4 and change linearly over time towards a 50%-50% split after 48 hours.",
+    "learn_more": "https://medium.com/visorfinance/announcing-the-token-distribution-and-launch-of-visor-finance-22a84f5556e1",
+    "logo": true,
+    "is_visible": true,
+    "is_compatible": true
   }
 }
